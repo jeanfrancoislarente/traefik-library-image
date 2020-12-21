@@ -5,7 +5,7 @@ platform: x64
 # `git clone` takes ages due to the repo's size
 shallow_clone: true
 
-image: "Windows Server 2019"
+image: "Visual Studio 2019"
 
 environment:
   matrix:
